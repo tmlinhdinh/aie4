@@ -1,5 +1,0 @@
-1. Hook: A catchy introduction to grab attention
-2. Brief explanation: What is Linear Regression
-3. In-depth dive: How Linear Regression works
-4. Real-world applications: Where and why use Linear Regression
-5. Conclusion: Engage readers for comments, shares, and likes
